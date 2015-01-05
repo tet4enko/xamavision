@@ -1,1 +1,1 @@
-/Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/bin/Debug/mycamera.dll
+/Users/tet4enko/Projects/Xamarin/xamavision/mycamera/bin/Debug/mycamera.dll

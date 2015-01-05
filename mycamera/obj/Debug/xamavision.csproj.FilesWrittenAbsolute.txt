@@ -11,3 +11,16 @@
 /Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/obj/Debug/R.cs.flag
 /Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/bin/Debug/mycamera.mycamera-Signed.apk
 /Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/obj/Debug/uploadflags.txt
+/Users/tet4enko/Projects/Xamarin/xamavision/mycamera/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/tet4enko/Projects/Xamarin/xamavision/mycamera/bin/Debug/mycamera.dll.mdb
+/Users/tet4enko/Projects/Xamarin/xamavision/mycamera/bin/Debug/mycamera.dll
+/Users/tet4enko/Projects/Xamarin/xamavision/mycamera/bin/Debug/mycamera.mycamera.apk
+/Users/tet4enko/Projects/Xamarin/xamavision/mycamera/obj/Debug/android/bin/mycamera.mycamera.apk
+/Users/tet4enko/Projects/Xamarin/xamavision/mycamera/obj/Debug/res/layout/main.xml
+/Users/tet4enko/Projects/Xamarin/xamavision/mycamera/obj/Debug/res/values/strings.xml
+/Users/tet4enko/Projects/Xamarin/xamavision/mycamera/obj/Debug/res/drawable/icon.png
+/Users/tet4enko/Projects/Xamarin/xamavision/mycamera/obj/Debug/R.cs.flag
+/Users/tet4enko/Projects/Xamarin/xamavision/mycamera/bin/Debug/mycamera.mycamera-Signed.apk
+/Users/tet4enko/Projects/Xamarin/xamavision/mycamera/obj/Debug/uploadflags.txt
+/Users/tet4enko/Projects/Xamarin/xamavision/mycamera/obj/Debug/mycamera.dll
+/Users/tet4enko/Projects/Xamarin/xamavision/mycamera/obj/Debug/mycamera.dll.mdb

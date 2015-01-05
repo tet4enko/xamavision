@@ -1,22 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.YT910DA9FC" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="mycamera/MainActivity.cs">
-    <Files>
-      <File FileName="mycamera/MainActivity.cs" Line="1" Column="1" />
-      <File FileName="mycamera/Resources/Resource.designer.cs" Line="1" Column="1" />
-      <File FileName="TextureViewCameraStream/Resources/Resource.designer.cs" Line="1" Column="1" />
-      <File FileName="TextureViewCameraStream/Properties/AssemblyInfo.cs" Line="1" Column="1" />
-    </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State expanded="True">
-          <Node name="mycamera" expanded="True">
-            <Node name="MainActivity.cs" selected="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/PictureCallback.cs" line="10" column="14" />

@@ -1,0 +1,2 @@
+mycamera.DelegatePictureCallback;mycamera.DelegatePictureCallback
+mycamera.MainActivity;mycamera.MainActivity

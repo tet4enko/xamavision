@@ -1,0 +1,13 @@
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/obj/Release/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/bin/Release/mycamera.dll.mdb
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/bin/Release/mycamera.dll
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/bin/Release/mycamera.mycamera.apk
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/obj/Release/android/bin/mycamera.mycamera.apk
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/obj/Release/res/layout/main.xml
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/obj/Release/res/values/strings.xml
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/obj/Release/res/drawable/icon.png
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/obj/Release/R.cs.flag
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/bin/Release/mycamera.mycamera-Signed.apk
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/obj/Release/uploadflags.txt
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/obj/Release/mycamera.dll
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/obj/Release/mycamera.dll.mdb

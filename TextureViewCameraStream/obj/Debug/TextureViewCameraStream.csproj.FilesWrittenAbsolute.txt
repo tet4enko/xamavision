@@ -1,0 +1,14 @@
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/TextureViewCameraStream/obj/Debug/MonoAndroid,Version=v4.0.AssemblyAttribute.cs
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/TextureViewCameraStream/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/TextureViewCameraStream/bin/Debug/TextureViewCameraStream.dll.mdb
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/TextureViewCameraStream/bin/Debug/TextureViewCameraStream.dll
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/TextureViewCameraStream/bin/Debug/TextureViewCameraStream.TextureViewCameraStream.apk
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/TextureViewCameraStream/obj/Debug/android/bin/TextureViewCameraStream.TextureViewCameraStream.apk
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/TextureViewCameraStream/obj/Debug/res/values/strings.xml
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/TextureViewCameraStream/obj/Debug/res/drawable/icon.png
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/TextureViewCameraStream/obj/Debug/R.cs.flag
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/TextureViewCameraStream/bin/Debug/TextureViewCameraStream.TextureViewCameraStream-Signed.apk
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/TextureViewCameraStream/obj/Debug/uploadflags.txt
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/TextureViewCameraStream/obj/Debug/TextureViewCameraStream.dll
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/TextureViewCameraStream/obj/Debug/TextureViewCameraStream.dll.mdb
+/Users/tet4enko/Downloads/TextureViewCameraStream 2/TextureViewCameraStream/obj/Debug/res/layout/new1.xml

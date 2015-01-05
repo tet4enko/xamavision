@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamavision", "mycamera\xamavision.csproj", "{D5B4A9AE-416F-431E-9AC6-B8D4D5CE7310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B4A9AE-416F-431E-9AC6-B8D4D5CE7310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B4A9AE-416F-431E-9AC6-B8D4D5CE7310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B4A9AE-416F-431E-9AC6-B8D4D5CE7310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B4A9AE-416F-431E-9AC6-B8D4D5CE7310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = mycamera\xamavision.csproj
+	EndGlobalSection
+EndGlobal

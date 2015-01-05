@@ -7,7 +7,8 @@ public class MainActivity
 		mono.android.IGCUserPeer,
 		android.view.TextureView.SurfaceTextureListener,
 		android.hardware.Camera.PictureCallback,
-		android.hardware.Camera.PreviewCallback
+		android.hardware.Camera.PreviewCallback,
+		android.hardware.Camera.AutoFocusCallback
 {
 	static final String __md_methods;
 	static {
@@ -19,6 +20,7 @@ public class MainActivity
 			"n_onSurfaceTextureUpdated:(Landroid/graphics/SurfaceTexture;)V:GetOnSurfaceTextureUpdated_Landroid_graphics_SurfaceTexture_Handler:Android.Views.TextureView/ISurfaceTextureListenerInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
 			"n_onPictureTaken:([BLandroid/hardware/Camera;)V:GetOnPictureTaken_arrayBLandroid_hardware_Camera_Handler:Android.Hardware.Camera/IPictureCallbackInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
 			"n_onPreviewFrame:([BLandroid/hardware/Camera;)V:GetOnPreviewFrame_arrayBLandroid_hardware_Camera_Handler:Android.Hardware.Camera/IPreviewCallbackInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
+			"n_onAutoFocus:(ZLandroid/hardware/Camera;)V:GetOnAutoFocus_ZLandroid_hardware_Camera_Handler:Android.Hardware.Camera/IAutoFocusCallbackInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
 			"";
 		mono.android.Runtime.register ("xamavision.MainActivity, mycamera, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", MainActivity.class, __md_methods);
 	}
@@ -86,6 +88,14 @@ public class MainActivity
 	}
 
 	private native void n_onPreviewFrame (byte[] p0, android.hardware.Camera p1);
+
+
+	public void onAutoFocus (boolean p0, android.hardware.Camera p1)
+	{
+		n_onAutoFocus (p0, p1);
+	}
+
+	private native void n_onAutoFocus (boolean p0, android.hardware.Camera p1);
 
 	java.util.ArrayList refList;
 	public void monodroidAddReference (java.lang.Object obj)

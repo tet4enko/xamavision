@@ -1,9 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.YT910DA9FC" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="mycamera/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/tet4enko/Downloads/TextureViewCameraStream 2/mycamera/PictureCallback.cs" line="10" column="14" />
+      <Breakpoint file="/Users/tet4enko/Projects/Xamarin/xamavision/mycamera/MainActivity.cs" line="44" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
